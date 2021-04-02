@@ -1,0 +1,7 @@
+﻿  Perso.cpp
+  Orc.cpp
+c:\users\thomas\desktop\machine_learning\projet battle\fantasybattle\fantasybattle\orc.cpp(25): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Knight.cpp
+c:\users\thomas\desktop\machine_learning\projet battle\fantasybattle\fantasybattle\knight.cpp(38): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Génération de code en cours...
+  FantasyBattle.vcxproj -> C:\Users\Thomas\Desktop\MACHINE_LEARNING\Projet Battle\FantasyBattle\Debug\FantasyBattle.exe
